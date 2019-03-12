@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #3f95ea;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    max-width: 1024px;
+    text-align: center;
+    margin: 0 auto
+}
+
+header {
+    text-align: center
+}
+
+img {
+    border-radius: 200px;
+    max-width: 200px
+}
+
+a {
+    color: #ccc;
+    text-decoration: none
+}
+
+a:hover {
+    color: #fff;
+    -moz-transition: all 0.5s ease-in;
+    -webkit-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in;
+}
+
+.contact {
+    color: #fff;
+}
+
+.contact:hover {
+    color: #fff
+}
+
+blockquote {
+    font-style: italic
+}
+
+h3 {
+    font-size: 16pt;
+}
