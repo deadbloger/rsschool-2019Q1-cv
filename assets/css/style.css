@@ -45,6 +45,12 @@ blockquote {
     font-style: italic
 }
 
+ul li {
+    list-style: none;
+    padding: 0;
+}
+
 h3 {
     font-size: 16pt;
 }
+
