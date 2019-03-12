@@ -45,7 +45,7 @@ blockquote {
     font-style: italic
 }
 
-ul li {
+ul, ul li {
     list-style: none;
     padding: 0;
 }
