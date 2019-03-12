@@ -32,6 +32,19 @@ a:hover {
     -o-transition: all 0.5s ease-in;
     transition: all 0.5s ease-in;
 }
-.contact {color:#fff;}
-.contact:hover {color:#fff}
-blockquote {font-style: italic}
+
+.contact {
+    color: #fff;
+}
+
+.contact:hover {
+    color: #fff
+}
+
+blockquote {
+    font-style: italic
+}
+
+h3 {
+    font-size: 16pt;
+}
